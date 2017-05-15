@@ -1,4 +1,4 @@
-# kaggle_ncaa_2017
+# Kaggle NCAA 2017 March Madness
 A predictive model for the 2017 NCAA Basket Ball Tournament using data provided from Kaggle 
 
 These are series of Notebooks that were created to turn from Kaggle's 2017 NCAA March Madness contest data into a predictive model for the contest.
