@@ -12,6 +12,6 @@ These are the Notebooks included:
 `model2007.py`, `statdict.py`, `Submission_2017.csv` are files created by the Notebook
 
 ## View The Notebooks here with The [nbviewer](https://nbviewer.jupyter.org/)
-[NCAAModelSetup2017.ipynb](https://nbviewer.jupyter.org/github/gugzkumar/kaggle_ncaa_2017/blob/master/NCAAModelSetup.ipynb)<br>
+[NCAAModelSetup2017.ipynb](https://nbviewer.jupyter.org/github/gugzkumar/kaggle_ncaa_2017/blob/master/NCAAModelSetup2017.ipynb)<br>
 [NCAAModelCreation2017.ipynb](https://nbviewer.jupyter.org/github/gugzkumar/kaggle_ncaa_2017/blob/master/NCAAModelCreation2017.ipynb)<br>
 [NCAABracketExtraction.ipynb](https://nbviewer.jupyter.org/github/gugzkumar/kaggle_ncaa_2017/blob/master/NCAABracketExtraction.ipynb)<br>
